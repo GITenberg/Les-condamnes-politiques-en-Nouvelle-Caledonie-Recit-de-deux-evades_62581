@@ -1,5 +1,8 @@
 _repo: Les-condamnes-politiques-en-Nouvelle-Caledonie-Recit-de-deux-evades_62581
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62581-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Grousset, Paschal
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52014'
     url: http://www.gutenberg.org/2009/agents/52014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62581#Les-condamnes-politiques-en-Nouvelle-Caledonie-Recit-de-deux-evades
 gutenberg_issued: '2020-07-07'
 gutenberg_type: Text
 identifiers:
